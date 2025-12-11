@@ -99,7 +99,8 @@ body {
 
 .slide .caption h1 {
     font-weight: 1000;
-    line-height: 45px;
+    line-height: 50px;
+    font-size: 1.3em;
 }
 
 .slide .caption {
